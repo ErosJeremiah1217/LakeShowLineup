@@ -1,0 +1,70 @@
+*
+body{
+    background-color:purple;
+   
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+}
+table, th, td {
+    border: 3px gold;
+    border-style: outset;
+    margin: auto;
+    padding: 8px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+  }
+
+.pic{
+	width: 50%;
+    height: auto;
+	background-color: purple;
+}
+
+.logo{
+    width: 200px;
+    height: 100px;
+    
+}
+
+.lakers{
+    position: absolute;
+    left: -10px;
+    top: 400px;    
+    width: 400px;
+    height: 350px;
+    opacity: 80%;
+    
+
+}
+.nba{
+	position: absolute;
+    right: -20px;
+    top: 400px;    
+    width: 350px;
+    height: 350px;
+    opacity: 80%;
+	
+}
+
+.lakers1{
+    position: absolute;
+    left: -10px;
+    top: 2000px;    
+    width: 400px;
+    height: 350px;
+    opacity: 80%;
+    
+
+}
+.nba1{
+	position: absolute;
+    right: -20px;
+    top: 2000px;    
+    width: 350px;
+    height: 350px;
+    opacity: 80%;
+	
+}
